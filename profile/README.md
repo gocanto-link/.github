@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://oullin.io/assets/001-BBig3EFt.png" alt="Oullin Logo" width="150" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">Welcome to Oullin</h1>
 
 <p align="center">
