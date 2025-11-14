@@ -1,18 +1,18 @@
-<h1 align="center">Welcome to Oullin</h1>
+<h1 align="center">Welcome</h1>
 
 <p align="center">
   <i>Movement. Transformation. Shared Knowledge.</i>
 </p>
 
-Welcome! We are a collective dedicated to sharing code, knowledge, and fostering growth. Our work is inspired by the Aztec concept of **Ollin** ("movement" or "motion")—a guiding force for transformation, awareness, and wholehearted living.
+Welcome! We are a collective dedicated to sharing code and knowledge and fostering growth. Our work is inspired by the Aztec concept of **Ollin** ("movement" or "motion")—a guiding force for transformation, awareness, and wholehearted living.
 
-Our repositories are a reflection of this philosophy. We believe that code, like life, is in constant motion.
+Our repositories reflect this philosophy. We believe that code, like life, is in constant motion.
 
 ---
 
-## Our Guiding Principle
+## Our Guiding Principle (Oullin)
 
-In Aztec tradition, **Ollin** means “movement” or “motion,” embodying transformation, heart, life, and the calendar’s purified spirit-day. But for us, it goes deeper—it speaks to the same gentle momentum at the heart of Zen, where each breath and each step is a flowing wave of presence.
+In Aztec tradition, **Ollin** means “movement” or “motion,” embodying transformation, heart, life, and the purified spirit-day of the calendar. But for us, it goes deeper—it speaks to the same gentle momentum at the heart of Zen, where each breath and each step is a flowing wave of presence.
 
 For anyone on the path of self-discovery, Ollin becomes a guide: it reminds us to move with intention, stay grounded in the here and now, and welcome life’s shifts as chances to grow.
 
