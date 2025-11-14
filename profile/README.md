@@ -1,16 +1,11 @@
-<h1 align="center">Welcome</h1>
-
-<p align="center">
-  <i>Movement. Transformation. Shared Knowledge.</i>
-</p>
+# Movement, Transformation, and Shared Knowledge.
 
 Welcome! We are a collective dedicated to sharing code and knowledge and fostering growth. Our work is inspired by the Aztec concept of **Ollin** ("movement" or "motion")—a guiding force for transformation, awareness, and wholehearted living.
 
 Our repositories reflect this philosophy. We believe that code, like life, is in constant motion.
 
----
 
-## Our Guiding Principle (Oullin)
+### Our Guiding Principle
 
 In Aztec tradition, **Ollin** means “movement” or “motion,” embodying transformation, heart, life, and the purified spirit-day of the calendar. But for us, it goes deeper—it speaks to the same gentle momentum at the heart of Zen, where each breath and each step is a flowing wave of presence.
 
@@ -20,7 +15,7 @@ Just as Zen teaches us to let thoughts pass like clouds, Ollin’s energy urges 
 
 Our spelling, **Oullin**, is a deliberate twist. It's our daily nudge to stay present, move with purpose, and welcome every change as part of our shared journey.
 
-## What You'll Find Here
+### What You'll Find Here
 
 This organisation is a living library of our explorations. We share code and knowledge to help ourselves and others grow. You'll find:
 
@@ -29,7 +24,7 @@ This organisation is a living library of our explorations. We share code and kno
 * 📚 **Knowledge Bases:** Curated lists, articles, and guides on topics we're passionate about.
 * 💡 **Experiments:** Open explorations and ideas-in-progress. We embrace the process, not just the final product.
 
-## Join the Movement
+### Join the Movement
 
 This is not just a collection of code; it's an invitation to participate. We are always open to collaboration, discussion, and new perspectives.
 
@@ -39,9 +34,7 @@ This is not just a collection of code; it's an invitation to participate. We are
 
 We believe in growth through contribution and shared understanding. All are welcome.
 
----
-
-## Connect With Us
+### Connect With Us
 
 Follow our journey and join the conversation beyond GitHub:
 
